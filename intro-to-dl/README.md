@@ -43,6 +43,12 @@ Week 2, Introduction to neural networks
 - Apply backpropagation algorithm to train deep neural networks using automatic differentiation
 - Implement, train and test neural networks using TensorFlow and Keras
 
+**Additional Resources**
+
+- [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+- [Tensorflow, The Confusing Parts (1)](https://jacobbuckman.com/2018-06-25-tensorflow-the-confusing-parts-1/)
+- [Tensorflow, The Confusing Parts (2)](https://jacobbuckman.com/2018-09-17-tensorflow-the-confusing-parts-2/)
+
 ---
 
 Week 3, Deep Learning for images
