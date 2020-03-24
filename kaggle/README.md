@@ -110,6 +110,21 @@ Prerequisites:
 - Inspect the data and find golden features
 - Examine and analyze various plots and other data visualizations
 
+**Additional Resources**
+
+- Exploratory data analysis
+    - Visualization tools
+        - Seaborn
+        - Plotly
+        - Bokeh
+        - ggplot
+        - Graph visualization with NetworkX
+    - Others
+        - Biclustering algorithms for sorting corrplots
+- Validation
+    - [Validation in Sklearn](http://scikit-learn.org/stable/modules/cross_validation.html)
+    - [Advices on validation in a competition](http://www.chioka.in/how-to-select-your-final-models-in-a-kaggle-competitio/)
+
 **Week 3: Metrics Optimization**
 
 > This week we will first study another component of the competitions: the evaluation metrics. We will recap the most prominent ones and then see, how we can efficiently optimize a metric given in a competition.
