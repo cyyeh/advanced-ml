@@ -79,3 +79,40 @@
 ### Q4
 
 ![](https://i.imgur.com/Vy9SmnI.png)
+
+
+## Validation
+
+### Q1
+
+![](https://i.imgur.com/uJC6CGa.png)
+
+### Q2
+
+![](https://i.imgur.com/vc0bViD.png)
+
+### Q3
+
+![](https://i.imgur.com/huP9fxj.png)
+
+### Q4
+
+![](https://i.imgur.com/tQoKhuM.png)
+
+## Data leakages
+
+### Q1
+
+![](https://i.imgur.com/Nya0MsH.png)
+
+### Q2
+
+![](https://i.imgur.com/npEBgwt.png)
+
+### Q3
+
+![](https://i.imgur.com/SKl0UT6.png)
+
+### Q4
+
+![](https://i.imgur.com/kLlGq9g.png)
